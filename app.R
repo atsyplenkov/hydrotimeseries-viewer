@@ -22,6 +22,8 @@ ui <- fluidPage(
                   'text/tab-separated-values',
                   'text/plain',
                   '.csv',
+                  '.xlsx',
+                  '.xls',
                   '.tsv'
                 )
       ),

@@ -1,0 +1,13 @@
+name: viewer
+title: viewer
+username:
+account: atsyplenkov
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2050304
+bundleId: 2964279
+url: https://atsyplenkov.shinyapps.io/viewer/
+when: 1585920324.60481
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
